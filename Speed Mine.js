@@ -1,3 +1,5 @@
+// Code by BeATz-UnKNoWN
+
 var defaultDestroyTime = [
 null, 1.5, 0.6, 0.5, 2, 2, 0, -1, null, null, null, null, 
 0.5, 0.6, 3, 3, 3, 2, 0.2, 0.6, 0.3, 3, 3, null, 0.8, null, 
