@@ -1,5 +1,3 @@
-// This all code
-
 var ctx = com.mojang.minecraftpe.MainActivity.currentMainActivity.get();
 var Button = android.widget.Button;
 var LinearLayout = android.widget.LinearLayout;
